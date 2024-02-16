@@ -76,4 +76,4 @@ php artisan run:project
 
 ## To make Testting for functions
 
-phpartisan test
+php artisan test
